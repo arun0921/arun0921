@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun</h1>
-<h3 align="center">I am a non-IT Professional returns to full stack developer aspirant passionate from India</h3>
+<h3 align="center">I am a non-IT Professional turned full stack developer aspirant passionate from India</h3>
 
 - 📫 How to reach me **arunsarun9442@gmail.com**
 
