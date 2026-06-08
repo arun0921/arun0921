@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **arunsarun9442@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QKa3Jouc19cvi_lFblj956rptOdvWOgx/view?usp=drive_link](https://drive.google.com/file/d/1QKa3Jouc19cvi_lFblj956rptOdvWOgx/view?usp=drive_link)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
